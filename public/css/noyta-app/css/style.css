@@ -1,0 +1,232 @@
+/* common class */
+.wrapper {
+    width: 100%;
+    position: relative;
+    padding: 0px;
+    margin:0px auto;
+    overflow: hidden;
+    align-items: stretch;
+    height:auto;
+ }
+ .cmn-cls{
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+/* navbar */
+.navbar-link{
+    font-family: Calibri;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ffffff;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: #ffffff;
+    font-size: 25px;
+    padding: 0px 11px;
+}
+#edumain .navbar {
+    color: #ffffff;
+    position: fixed;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    background: #24733a;
+    font-family: Calibri;
+}
+.head{
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.headsocial{
+
+}
+.sticky{
+    background: #24733a;
+    color: #ffffff;
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+/* first section */
+.frst-section{
+    margin-top: 100px;
+}
+.nyota{
+    font-family: Calibri;
+    font-size: 50px;
+    font-weight: bold;
+}
+.nyota span{
+    color: #2fa645;
+}
+.img-wdth{
+    width: 90%;
+}
+.bien{
+    color: #2fa645;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 35px;
+}
+.margn{
+    margin-top: 100px;
+}
+.soyez{
+    font-size: 25px;
+    font-family: Calibri;
+    color: #2fa645; 
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.soyez span{
+    color: #f91d1d;
+}
+form label{
+    color:#000000;
+    font-family: Calibri;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size:25px;
+    margin-bottom:10px;
+}
+.form-control{
+    padding: 1rem;
+    box-shadow: 1px 1px 3px 0px #00000082;
+}
+.btn-bg{
+    background-color:#f12409;
+    color:#ffffff;
+    font-weight: 900;
+    font-family: Calibri;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 0px 24px;
+}
+.dispon{
+    font-size: 27px;
+    font-family: Calibri;
+    color: #2fa645;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.plus{
+    font-size: 20px;
+    color:#000000;
+    font-weight: bold;
+    font-family: Calibri;
+}
+.card-height{
+    height: 320px;
+}
+.card{
+    box-shadow: 1px 1px 3px 0px #00000082;
+}
+.footer{
+    height: 200px;
+    background-color: #000000;
+}
+
+
+/* responsive */
+
+/*ipad*/
+
+@media (max-width: 1024px){
+    .dispon {
+    font-size: 22px;
+}
+.soyez {
+    font-size: 22px;
+}
+form label {
+    font-size: 22px;
+}
+.btn-bg {
+    font-size: 27px;
+}
+.plus {
+    font-size: 19px;
+}
+}
+
+/* tablet */
+
+@media (max-width: 768px){
+    .dispon {
+    font-size: 15px;
+}
+.soyez {
+    font-size: 15px;
+}
+form label {
+    font-size:15px;
+}
+.btn-bg {
+    font-size: 20px;
+}
+.plus {
+    font-size: 16px;
+}
+.form-control{
+    padding: 6px;
+}
+}
+
+/* mobile */
+
+@media (max-width: 600px){
+    .nyota {
+    font-size: 37px;
+}
+.bien {
+    font-size: 25px;
+}
+.mobb{
+    margin-top: 50px;
+}
+.mobb2{
+    margin-top: 20px;
+}
+.mobb3{
+    width: 35%;
+}
+.margn {
+    margin-top: 50px;
+}
+.dispon {
+    font-size: 24px !important;
+}
+.plus {
+    font-size: 20px !important;
+}
+.soyez {
+    font-size: 20px !important;
+}
+form label {
+    font-size:20px !important;
+}
+.img-wdth{
+    width: 50%;
+}
+.right-panel {
+    width: 100%;
+    float: left;
+    position: relative;
+    padding-left: 0px !important;
+    margin-top: 75px;
+}
+}

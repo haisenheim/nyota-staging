@@ -1,0 +1,87 @@
+.del{
+	font-family: Abril Fatface;
+    font-weight: 600;
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+}
+.stat{
+    font-weight: 400;
+    font-size: 16px;
+    color: black;
+    line-height: 28px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.prm{
+	color: #ec4da2;
+}
+.poly{
+	width: 100%;
+    margin-top: 100px;
+}
+.pink{
+    margin-top: -91px;
+    width: 100%;
+    /* padding-left: 100px; */
+/*    border-radius: 0px 0px 0px 136px;
+*/    /* border-top-left-radius: 78px; */
+    /* border-bottom-left-radius: 25px; */
+    border-bottom-left-radius: 100p;
+    object-fit: cover;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    padding: 1.5rem;
+}
+.rs {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    font-family: Abril Fatface;
+    font-weight: 700;
+    font-size: 100px;
+    color: white;
+    margin-bottom: 0;
+    right: 0%;
+    transform: translateY(-50%);
+    text-align: center;
+}
+.sticky .navbar-nav .nav-link {
+    color: #000;
+    font-size: 18px;
+    padding: 1.5rem;
+}
+.sticky .white{
+    display: none !important;
+}
+.sticky .dark{
+    display: block !important;
+}
+.navbar-dark .white{
+    display: block;
+}
+.navbar-dark .dark{
+    display: none;
+}
+@media (max-width: 600px){
+.pink {
+    margin-top: 86px;
+}
+.rs {
+    top: 59%;
+    font-size: 59px;
+}
+.del {
+    font-size: 38px;
+    margin-top: 80px;
+}
+.navbar-dark .white{
+    display: none;
+}
+.navbar-dark .dark{
+    display: block;
+}
+}

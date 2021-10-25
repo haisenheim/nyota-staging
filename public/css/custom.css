@@ -1,0 +1,183 @@
+.content-header{padding: 0px;}
+.content-header>h1{padding-bottom:10px;}
+.login-logo img{ width:100%; }
+.login-page{ background:#fff; }
+.login-box-body, .register-box-body{border:1px solid #0B68D2;}
+.btn-primary {background-color: #123262;border-color: #123262;}
+.btn-primary:hover, .btn-primary:active, .btn-primary.hover{background-color: #123262;}
+.help-block,span.invalid-feedback{color:red;}
+.help-comment-box {color:red;font-size: 12px; margin-left: 5px}
+.main-header .logo{line-height:46px;}
+.search_top{
+	margin-top: 5px;
+}
+.register-box, .register-box {
+    width: 571px;
+    margin: 7% auto;
+}
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: unset;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.bg-green, .callout.callout-success, .alert-success, .label-success, .modal-success .modal-body {
+    background-color: #00a65a !important;
+    padding: 7px;
+}
+.input-group-addon, .input-group-btn {
+	width: 0;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+.fa_padding_class{
+    width: auto !important; 
+    margin-right: 5px;
+    float: left;
+}
+.box-header.with-border {
+    border-bottom: 1px solid #f4f4f4;
+    margin-bottom: 10px;
+}
+.row-box {
+    margin-left: -4px;
+    margin-right: 11px;
+}
+.input-group-append .fa-fw {
+    width: 1.28571429em;
+    text-align: center;
+    margin: -8px;
+}
+.border-padding {
+    padding: 3px;
+}
+.dropzone-border .dropzone{
+    min-height: 150px;
+    border: 1px dotted rgba(0,0,0,0.3);
+    background: white;
+    padding: 20px 20px;
+    max-height: 350px;
+    overflow: auto;
+}
+.product-padding{
+    padding-bottom: 25px;
+}
+.content-head{
+    padding: 8px;
+}
+.border-class{
+    border: 1px dotted rgba(0,0,0,0.3);
+    margin: 3px;
+    padding-top: 5px;
+}
+p {
+    margin: 0 0 10px;
+    text-align: justify;
+}
+.button-top{
+    margin-top: 25px;
+}
+.invalid-feedback {
+    display: none;
+    margin-top: .25rem;
+    font-weight: 700;
+    color: red;
+}
+.custom-select.is-invalid~.invalid-feedback, .custom-select.is-invalid~.invalid-tooltip, .form-control.is-invalid~.invalid-feedback, .form-control.is-invalid~.invalid-tooltip, .was-validated .custom-select:invalid~.invalid-feedback, .was-validated .custom-select:invalid~.invalid-tooltip, .was-validated .form-control:invalid~.invalid-feedback, .was-validated .form-control:invalid~.invalid-tooltip {
+    display: block;
+}
+input[type="checkbox"][readonly] {
+  pointer-events: none;
+}
+
+.center{
+    text-align: center;
+}
+.img-align{
+    margin-left: 72px;
+    margin-right: 72px;
+}
+input[type=checkbox], input[type=radio] {
+     margin: 0px; 
+    line-height: normal;
+    vertical-align: middle;
+}
+.box-comments {
+    background: #ffffff;
+}
+.box-footer_text {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top: 1px solid #f4f4f4;
+    padding: 10px;
+    background-color: #fff;
+    height: 330px;
+    overflow: auto;
+}
+.user_name {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.invoice-row {
+    padding : 0px;
+}
+
+
+table td.grand-border {
+    border-top: 1px solid #5D6975 !important;
+}
+
+/* dashboard 18-10-2019 */
+
+.das-color.small-box {
+    text-decoration: none;
+    color: #f9f9f9;
+}
+
+.das-color.alert-success, .bg-success {
+    background-color: #28a745!important;
+}
+.das-color.bg-success {
+    background-color: #28a745 !important;
+}
+
+.das-color.callout, .card, .info-box, .mb-3, .my-3, .small-box {
+    margin-bottom: 1rem!important;
+}
+.das-color.alert-success, .small-box {
+    color: #fff!important;
+}
+.das-color.alert-info, .bg-info {
+    background-color: #17a2b8!important;
+}
+.das-color.alert-warning, .bg-warning {
+    background-color: #ffc107!important;
+}
+
+.das-color.alert-danger, .alert-error, .bg-danger {
+    background-color: #dc3545!important;
+}
+.das-color{
+    margin-bottom: 25px;
+}
+
+.vendor-box.small-box>.inner {
+    padding: 30px !important;
+}
+/*.input-group-addon:last-child {
+    border-left: 1;
+}
+.search_box_right{
+    margin-left: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 6px;
+}*/

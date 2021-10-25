@@ -1,0 +1,438 @@
+[23-Jan-2020 05:28:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[23-Jan-2020 05:28:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[23-Jan-2020 05:28:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[23-Jan-2020 05:28:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[20-Feb-2020 06:58:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125833216 bytes) in /home/c1269807c/public_html/app/Http/Controllers/API/PaymentController.php on line 263
+[12-Apr-2020 10:25:50 Europe/Paris] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/c1269807c/public_html/eufhob.php on line 1233
+[29-Apr-2020 13:09:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17271512 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[29-Apr-2020 13:10:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17272856 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[29-Apr-2020 13:26:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17267784 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[29-Apr-2020 13:27:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17269360 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[29-Apr-2020 13:28:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17269856 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 08:06:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16021480 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 08:07:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16024464 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 08:10:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15872312 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 08:12:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15713800 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 08:13:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15566320 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 09:49:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15565256 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 09:53:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15568616 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 09:55:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15562288 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 10:03:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15568544 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:10:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17238320 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:11:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17242400 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:19:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15691112 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:21:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15656304 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:21:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15659184 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:31:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15569064 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:32:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15569600 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:33:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538832 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:39:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15566944 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:41:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15536480 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 11:52:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538992 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:09:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15568616 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:10:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15567328 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:17:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538440 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:25:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15533744 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:25:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15532816 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:31:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15536464 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:37:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15535024 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:39:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15535632 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:39:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15533440 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:39:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15536888 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:39:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15536488 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:46:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15536000 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:48:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15537544 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:49:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15537024 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 12:50:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15537224 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 17:17:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15537656 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 18:34:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15536792 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Apr-2020 21:06:03 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538944 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[01-May-2020 08:14:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538552 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[01-May-2020 08:56:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15539920 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-May-2020 11:27:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538984 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-May-2020 14:54:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538672 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 05:40:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15539048 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 05:47:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15536136 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 07:41:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538808 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 15:13:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15539792 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 15:15:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15539736 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 15:17:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15539456 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 15:26:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15539312 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 17:30:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538680 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 17:35:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538768 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 17:36:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538664 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 17:38:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538856 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-May-2020 17:39:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15534056 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[04-May-2020 10:32:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15535816 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[04-May-2020 11:26:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15539520 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[04-May-2020 13:18:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15533032 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[05-May-2020 12:18:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15535768 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[05-May-2020 12:38:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538584 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[05-May-2020 15:01:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15383152 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[06-May-2020 08:02:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538768 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[06-May-2020 11:28:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15538480 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[06-May-2020 11:48:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15536376 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[06-May-2020 12:23:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15534824 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[07-May-2020 06:40:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15445432 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[07-May-2020 09:07:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15440768 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[09-May-2020 08:22:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15417936 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[09-May-2020 15:47:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15455000 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[12-May-2020 14:51:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15351936 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[13-May-2020 19:55:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[13-May-2020 19:59:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[13-May-2020 20:07:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[13-May-2020 20:12:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[13-May-2020 20:32:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[13-May-2020 20:35:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[13-May-2020 20:37:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[14-May-2020 05:55:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[14-May-2020 06:09:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[14-May-2020 06:21:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[14-May-2020 06:31:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[14-May-2020 06:45:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[14-May-2020 07:17:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[14-May-2020 07:21:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[14-May-2020 07:28:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/c1269807c/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[20-May-2020 07:45:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15357360 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[20-May-2020 10:14:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15356624 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[22-May-2020 14:50:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15359144 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[24-May-2020 06:56:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15397816 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[26-May-2020 09:58:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15355448 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[26-May-2020 18:08:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15396584 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[29-May-2020 09:40:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12587008 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[29-May-2020 09:48:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12587008 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[29-May-2020 10:07:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15397200 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-May-2020 09:40:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12587008 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[30-May-2020 10:14:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[31-May-2020 10:24:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15397152 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[01-Jun-2020 08:46:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15967432 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[01-Jun-2020 08:47:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15966992 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[01-Jun-2020 08:48:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15966456 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2020 11:28:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15693208 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2020 11:29:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15693064 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2020 12:26:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15631712 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2020 12:56:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[03-Jun-2020 08:23:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15749736 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 08:27:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15749440 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 08:31:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15628576 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 08:43:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15628504 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:01:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15627952 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:02:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15624624 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:03:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15624704 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:04:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15625624 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:08:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15624848 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:42:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15626520 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:47:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15657888 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:50:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15654520 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:56:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15657472 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 09:57:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15626024 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 10:02:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15656864 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 10:03:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15627136 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 10:05:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15624328 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 10:06:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15624424 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 10:06:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15625256 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jun-2020 11:30:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[03-Jun-2020 11:31:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[03-Jun-2020 11:34:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 20:37:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15628152 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[04-Jun-2020 20:40:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 20:40:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 20:42:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 20:44:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 20:47:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 20:48:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 21:03:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 21:04:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 21:10:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 23:11:03 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 23:16:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[04-Jun-2020 23:51:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[05-Jun-2020 00:03:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[05-Jun-2020 13:05:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15627312 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[05-Jun-2020 13:07:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15625720 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[05-Jun-2020 13:10:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15623656 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[05-Jun-2020 13:11:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[05-Jun-2020 14:31:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[05-Jun-2020 14:32:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16781312 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[05-Jun-2020 19:18:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15626880 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[05-Jun-2020 19:20:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15627984 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[05-Jun-2020 20:03:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15626800 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[06-Jun-2020 03:31:38 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 04:41:41 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 04:57:30 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 05:05:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 05:05:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 05:05:34 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 05:05:35 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:14:22 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:14:22 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:14:22 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:14:22 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:14:38 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:14:45 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:14:45 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:14:45 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:14:45 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:16:31 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:16:31 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:16:32 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:16:32 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:16:48 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:17:03 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:17:03 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:17:04 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:17:04 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:19:25 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:19:25 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:19:25 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:19:25 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:19:29 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:21:18 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:21:48 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:21:48 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 07:33:57 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:05:36 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:05:36 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:23:28 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:23:28 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:23:28 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:23:28 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:24:19 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:24:19 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:24:19 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:24:19 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:25:26 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:25:26 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:25:26 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:25:26 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:03 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:15 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:15 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:15 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:15 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:16 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:16 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:17 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:17 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:18 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:43 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:49 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:49 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:49 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:26:49 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:30 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:30 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:30 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:30 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:34 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:48 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:48 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:48 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:48 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:27:53 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:03 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:03 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:03 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:03 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:05 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:13 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:13 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:13 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:13 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:21 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:28:29 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:29:14 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:29:14 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:29:14 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:29:14 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:29:21 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:29:29 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:07 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:07 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:07 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:07 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:08 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:15 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:59 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:59 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:59 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:30:59 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:31:05 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:36:41 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:37:12 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:37:37 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:38:27 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:38:36 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:38:56 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:40:49 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:40:49 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:40:49 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:40:49 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:41:26 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:42:05 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:43:04 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:43:10 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:43:35 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:45:02 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:47:29 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:47:44 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:48:51 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:48:51 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:48:52 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:48:52 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:49:00 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:49:38 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:49:50 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:49:53 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:50:24 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:52:56 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:53:32 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:54:43 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:55:36 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:55:40 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 08:58:12 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:02:53 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:03:10 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:03:10 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:03:15 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:04:17 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:05:05 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:05:34 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:06:47 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:06:47 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:06:47 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:06:47 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:06:50 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:06 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:17 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:17 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:17 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:17 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:23 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:36 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:51 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:55 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:55 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:55 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:07:55 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:08:14 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:08:21 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:08:44 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:09:01 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:09:17 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:10:08 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:12:04 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:12:20 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:14:02 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:17:43 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:17:43 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:20:02 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:20:58 Europe/Paris] PHP Notice:  Undefined variable: mainResponce in /home/c1269807c/public_html/index.php on line 32
+[06-Jun-2020 09:20:58 Europe/Paris] PHP Notice:  Undefined variable: mainResponce in /home/c1269807c/public_html/index.php on line 32
+[06-Jun-2020 09:20:58 Europe/Paris] PHP Notice:  Undefined variable: mainResponce in /home/c1269807c/public_html/index.php on line 32
+[06-Jun-2020 09:20:58 Europe/Paris] PHP Notice:  Undefined variable: mainResponce in /home/c1269807c/public_html/index.php on line 32
+[06-Jun-2020 09:21:28 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:27:52 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:52:16 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:52:23 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:52:24 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:52:36 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:52:36 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:52:36 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:52:36 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[06-Jun-2020 09:52:39 Europe/Paris] PHP Notice:  Undefined index: HTTP_REFERER in /home/c1269807c/public_html/index.php on line 30
+[11-Jun-2020 13:15:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/DataCollector/QueryCollector.php on line 428
+[13-Jun-2020 10:25:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/DataCollector/QueryCollector.php on line 428
+[13-Jun-2020 10:26:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/DataCollector/QueryCollector.php on line 428
+[13-Jun-2020 10:30:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/c1269807c/public_html/vendor/barryvdh/laravel-debugbar/src/DataCollector/QueryCollector.php on line 428
+[17-Jun-2020 07:34:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 07:34:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 07:35:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 07:36:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17346104 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[17-Jun-2020 07:44:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 07:45:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17346280 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[17-Jun-2020 10:39:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17342240 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[17-Jun-2020 10:39:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 10:40:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17342096 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[17-Jun-2020 11:18:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 11:18:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 11:20:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 11:22:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17345760 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[17-Jun-2020 11:29:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 11:40:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 11:40:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 12:40:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 12:44:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 12:45:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17342528 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[17-Jun-2020 12:56:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17344016 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[17-Jun-2020 19:32:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 19:34:03 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 19:34:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 19:35:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 19:35:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17348360 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[17-Jun-2020 20:05:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[17-Jun-2020 20:06:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Jun-2020 07:11:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Jun-2020 12:12:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Jun-2020 12:12:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17346904 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[18-Jun-2020 14:11:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17346920 bytes) in /home/c1269807c/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[18-Jun-2020 22:03:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[19-Jun-2020 19:28:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[19-Jun-2020 19:38:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[20-Jun-2020 20:54:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[21-Jun-2020 20:45:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[14-Jul-2020 11:55:38 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\API\OrderController, because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrdernewController.php on line 0
+[14-Jul-2020 11:56:25 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\API\OrderController, because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrdernewController.php on line 0
+[15-Jul-2020 07:00:43 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrderController.php on line 17
+[15-Jul-2020 07:09:38 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrderController.php on line 18
+[15-Jul-2020 07:09:59 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrderController.php on line 18
+[15-Jul-2020 09:02:40 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrderController.php on line 18
+[15-Jul-2020 09:22:48 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrderController.php on line 18
+[15-Jul-2020 09:27:31 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrderController.php on line 18
+[15-Jul-2020 09:29:29 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrderController.php on line 18
+[15-Jul-2020 09:33:11 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrderController.php on line 24
+[15-Jul-2020 09:36:19 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/OrderController.php on line 23
+[21-Jul-2020 06:11:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123736064 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/ShippingController.php on line 324
+[21-Jul-2020 06:20:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/ShippingController.php on line 325
+[21-Jul-2020 06:43:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/ShippingController.php on line 323
+[22-Jul-2020 13:25:14 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/ProductController.php on line 53
+[23-Jul-2020 10:20:23 UTC] PHP Fatal error:  Cannot use App\Models\Cart as Cart because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/CartController.php on line 15
+[30-Jul-2020 10:40:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125833216 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/OrderController.php on line 127
+[30-Jul-2020 10:42:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123736064 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/OrderController.php on line 120
+[30-Jul-2020 10:42:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/OrderController.php on line 120
+[30-Jul-2020 10:44:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/OrderController.php on line 130
+[30-Jul-2020 10:46:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/OrderController.php on line 118
+[06-Aug-2020 05:42:24 UTC] PHP Fatal error:  Cannot use App\Models\Product as Product because the name is already in use in /home/c1269807c/public_html/nyotastaging/app/Imports/ProductImport.php on line 6
+[10-Aug-2020 13:22:07 UTC] PHP Fatal error:  Class App\Imports\ProductImport contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Maatwebsite\Excel\Concerns\WithValidation::rules) in /home/c1269807c/public_html/nyotastaging/app/Imports/ProductImport.php on line 20
+[13-Aug-2020 10:27:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125833216 bytes) in /home/c1269807c/public_html/nyotastaging/app/Providers/AppServiceProvider.php on line 25
+[13-Aug-2020 14:07:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125833216 bytes) in /home/c1269807c/public_html/nyotastaging/app/Providers/AppServiceProvider.php on line 44
+[13-Aug-2020 14:14:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/c1269807c/public_html/nyotastaging/app/Providers/AppServiceProvider.php on line 58
+[18-Aug-2020 05:59:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 06:21:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 06:26:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 06:31:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 06:32:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 06:33:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 10:51:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 12:26:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 12:32:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 12:36:03 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 12:40:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[18-Aug-2020 12:43:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes) in /home/c1269807c/public_html/nyotastaging/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[27-Aug-2020 11:45:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/UserController.php on line 305
+[27-Aug-2020 11:45:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/UserController.php on line 305
+[27-Aug-2020 11:46:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123736064 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/UserController.php on line 323
+[27-Aug-2020 12:05:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/UserController.php on line 322
+[27-Aug-2020 12:05:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/UserController.php on line 322
+[27-Aug-2020 13:27:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/UserController.php on line 304
+[27-Aug-2020 13:27:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/UserController.php on line 304
+[27-Aug-2020 13:28:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/UserController.php on line 304
+[27-Aug-2020 13:28:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/c1269807c/public_html/nyotastaging/app/Http/Controllers/API/UserController.php on line 304
